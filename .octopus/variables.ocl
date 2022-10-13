@@ -1,0 +1,3 @@
+variable "workerimage" {
+    value "octopuslabs/workertools:latest" {}
+}
